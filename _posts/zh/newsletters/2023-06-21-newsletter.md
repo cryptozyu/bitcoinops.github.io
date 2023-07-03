@@ -1,8 +1,8 @@
 ---
 title: 'Bitcoin Optech Newsletter #256'
-permalink: /en/newsletters/2023/06/21/
-name: 2023-06-21-newsletter
-slug: 2023-06-21-newsletter
+permalink: /zh/newsletters/2023/06/21/
+name: 2023-06-21-newsletter-zh
+slug: 2023-06-21-newsletter-zh
 type: newsletter
 layout: newsletter
 lang: zh
